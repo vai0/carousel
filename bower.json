@@ -1,0 +1,24 @@
+{
+  "name": "carousel",
+  "version": "0.0.0",
+  "authors": [
+    "Justin Chi <j.chi2241@gmail.com>"
+  ],
+  "description": "this is just a test",
+  "main": "index.html",
+  "keywords": [
+    "none"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}

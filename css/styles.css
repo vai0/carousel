@@ -1,0 +1,17 @@
+img {
+  width: 50%;
+}
+
+.carousel-inner {
+  background-color: black;
+}
+
+.carousel-caption {
+  font-size: 2em;
+  right: 10%;
+  left: 60%;
+  top: 30%;
+  bottom: 30%;
+  text-align: left;
+  text-shadow: none;
+}
